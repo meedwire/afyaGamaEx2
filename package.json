@@ -1,0 +1,15 @@
+{
+  "description": "Simple applicantion node.js",
+  "author": {
+    "name": "Leonardo Silva",
+    "url": "https://www.linkedin.com/in/leonardo-silva-48a52756/",
+    "email": "meedwire@gmail.com"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "study-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
